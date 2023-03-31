@@ -1,2 +1,0 @@
-# copilotedukre
-trial
