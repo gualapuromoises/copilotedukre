@@ -26,7 +26,7 @@ def propiedades(input, output):
     prots = []
     mws = []
     iis = []
-    for gen in input: 
+    for gen in input:
         prot = gen.seq.translate().split('*')
         prots.extend(prot)
     for prot in prots:
